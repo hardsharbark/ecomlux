@@ -1,0 +1,27 @@
+h1 {
+    font-family: cursive;
+    color:black
+}
+
+p{
+    color:red;
+    position:relative;
+    font-size: 20px;
+}
+
+body {
+    background-color:bisque;
+}
+
+#welcome{
+  position:relagtive;
+  padding: 50px
+  
+}
+
+#linker{
+    position:relative;
+    padding-left: 50px
+    float: right;
+    
+}
