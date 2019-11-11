@@ -24,7 +24,6 @@ body {
     max-width:100%;
     display:auto;
     position:relative;
-    float:center;
   
 }
 
@@ -46,7 +45,6 @@ body {
     color: coral;
     font-size:20px;
     text-align:center;
-    
     
 }
 
@@ -71,5 +69,3 @@ a{
     
 }
 
-    
-    
